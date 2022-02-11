@@ -560,8 +560,8 @@ footer a:hover {
   }
 }
 @media (max-width: 991px) {
-  .menu {
-    padding: 13px 0 13px 50px;
+  .menu_item {
+    padding-right: 8px;
   }
   .menu_link {
     font-size: 10px;
